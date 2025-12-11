@@ -40,10 +40,10 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
                         <li><a class="dropdown-item" href="{{ url('willard') }}">Willard</a></li>
-                        <li><a class="dropdown-item" href="{{ url('power-xl') }}">Power XL</a></li>
-                        <li><a class="dropdown-item" href="{{ url('pace-setter') }}">Pace Setter</a></li>
-                        <li><a class="dropdown-item" href="{{ url('hawker') }}">Hawker</a></li>
-                        <li><a class="dropdown-item" href="{{ url('road-master') }}">Road Master</a></li>
+                        <li><a class="dropdown-item" href="#">Power XL</a></li>
+                        <li><a class="dropdown-item" href="#">Pace Setter</a></li>
+                        <li><a class="dropdown-item" href="#">Hawker</a></li>
+                        <li><a class="dropdown-item" href="#">Road Master</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -59,6 +59,7 @@
                         <li><a class="dropdown-item" href="{{ url('yemen') }}">Yemen</a></li>
                     </ul>
                 </li>
+                <li class="nav-item"><a class="nav-link" href="{{ url('loadcalculator') }}">Battery Calculator</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Blog</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Career</a></li>
                 <li class="nav-item"><a class="nav-link" href="{{ url('contact-us') }}">Contact</a></li>

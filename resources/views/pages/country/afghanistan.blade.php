@@ -8,7 +8,9 @@
   <div class="container">
     <div class="export-content">
       <h2>Export to <span>Afghanistan</span></h2>
-      <p>Delivering reliable power solutions and quality products directly from India to Afghanistan’s growing market.</p>
+      <p>
+        Delivering reliable power solutions and quality products directly from India to Afghanistan’s growing market.
+      </p>
       <a href="#enquiry" class="export-btn">Become a Distributor</a>
     </div>
   </div>
@@ -52,7 +54,9 @@
   <div class="container">
     <div class="text-center mb-5">
       <h2 class="section-title">Why Afghan Distributors <span>Choose Cronex</span></h2>
-      <p class="section-subtitle">Trusted Power Solutions, Seamless Partnerships</p>
+      <p class="section-subtitle">
+        Trusted Power Solutions, Seamless Partnerships
+      </p>
     </div>
 
     <div class="row g-4 align-items-stretch">
@@ -62,7 +66,9 @@
             <i class="bi bi-lightning-charge-fill"></i>
           </div>
           <h5>Reliable Backup Power</h5>
-          <p>From homes to shops and businesses, our batteries ensure life and work keep going smoothly during power outages.</p>
+          <p>
+            From homes to shops and businesses, our batteries ensure life and work keep going smoothly during power outages.
+          </p>
         </div>
       </div>
 
@@ -72,7 +78,9 @@
             <i class="bi bi-truck"></i>
           </div>
           <h5>Flexible Shipping Options</h5>
-          <p>Small or large orders, we deliver on time to make your business growth easier.</p>
+          <p>
+            Small or large orders, we deliver on time to make your business growth easier.
+          </p>
         </div>
       </div>
 
@@ -82,7 +90,9 @@
             <i class="bi bi-currency-exchange"></i>
           </div>
           <h5>Good Pricing & Healthy Margins</h5>
-          <p>Direct exports from India let you offer quality products at competitive prices.</p>
+          <p>
+            Direct exports from India let you offer quality products at competitive prices.
+          </p>
         </div>
       </div>
     </div>

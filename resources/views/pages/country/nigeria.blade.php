@@ -8,7 +8,9 @@
   <div class="container">
     <div class="export-content">
       <h2>Export to <span>Nigeria</span></h2>
-      <p>Empowering Nigeria’s growing industries with reliable Indian products, strong partnerships, and seamless export support.</p>
+      <p>
+        Empowering Nigeria’s growing industries with reliable Indian products, strong partnerships, and seamless export support.
+      </p>
       <a href="#enquiry" class="export-btn">Become a Distributor</a>
     </div>
   </div>

@@ -41,20 +41,14 @@
             </div>
         </div>
     </div>
-
     <div class="product-wrapper section-entry">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center mb-5" data-aos="fade-up">
                     <h3>Our</h3>
                     <h2>Product Range</h2>
-                    <p>
-                        At Cronnex, we offer a diverse range of batteries designed to cater to various industries and
-                        applications.
-                        Our product portfolio includes
-                    </p>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" data-aos="fade-up">
                     <div class="product-card">
                         <img src="{{ asset('img/it.jpg') }}" alt="IT Sector" class="bg-img">
                         <img src="{{ asset('img/it-battery.png') }}" alt="IT Battery" class="battery-img">
@@ -63,7 +57,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" data-aos="fade-up">
                     <div class="product-card">
                         <img src="{{ asset('img/e-rick.jpg') }}" alt="IT Sector" class="bg-img">
                         <img src="{{ asset('img/e-rickshaw.png') }}" alt="IT Battery" class="battery-img">
@@ -72,7 +66,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" data-aos="fade-up">
                     <div class="product-card">
                         <img src="{{ asset('img/automotive.jpg') }}" alt="IT Sector" class="bg-img">
                         <img src="{{ asset('img/automotive-battery.png') }}" alt="IT Battery" class="battery-img">
@@ -82,7 +76,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
+                <div class="col-lg-3 col-md-6 col-sm-12 mb-3" data-aos="fade-up">
                     <div class="product-card">
                         <img src="{{ asset('img/tractor.jpg') }}" alt="IT Sector" class="bg-img">
                         <img src="{{ asset('img/tractor-battery.png') }}" alt="IT Battery" class="battery-img">
@@ -102,7 +96,8 @@
                     <h3>Why Choose</h3>
                     <h2>Cronex?</h2>
                 </div>
-                <div class="row feature-section">
+                <div class="feature-section">
+                    <div class="row">
                     <!-- Card 1 -->
                     <div class="col-lg-3 col-md-12 mb-4" data-aos="fade-up">
                         <div class="feature-card">
@@ -110,9 +105,11 @@
                                 <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" alt="Quality Icon">
                             </div>
                             <h3>Quality Assurance</h3>
-                            <p>We adhere to stringent quality control measures throughout our manufacturing process. Our
+                            <p>
+                                We adhere to stringent quality control measures throughout our manufacturing process. Our
                                 products are tested rigorously to ensure they meet the highest standards of performance
-                                and safety.</p>
+                                and safety.
+                            </p>
                         </div>
                     </div>
 
@@ -124,9 +121,11 @@
                                     alt="Innovation Icon">
                             </div>
                             <h3>Innovative Technology</h3>
-                            <p>Innovation is at the heart of what we do. We invest in research and development to bring
+                            <p>
+                                Innovation is at the heart of what we do. We invest in research and development to bring
                                 you the latest advancements in battery technology, ensuring our products are always at
-                                the forefront of the industry.</p>
+                                the forefront of the industry.
+                            </p>
                         </div>
                     </div>
 
@@ -138,9 +137,11 @@
                                     alt="Sustainability Icon">
                             </div>
                             <h3>Sustainability</h3>
-                            <p>As a responsible battery manufacturer, we are committed to sustainability. Our production
+                            <p>
+                                As a responsible battery manufacturer, we are committed to sustainability. Our production
                                 processes are designed to minimize environmental impact, and we offer recycling programs
-                                to ensure the proper disposal of used batteries.</p>
+                                to ensure the proper disposal of used batteries.
+                            </p>
                         </div>
                     </div>
 
@@ -151,12 +152,14 @@
                                 <img src="https://cdn-icons-png.flaticon.com/512/151/151770.png" alt="Support Icon">
                             </div>
                             <h3>Customer Support</h3>
-                            <p>Our dedicated customer support team is always ready to assist you. Whether you need
-                                technical guidance or have queries about our products, we are here to help.</p>
+                            <p>
+                                Our dedicated customer support team is always ready to assist you. Whether you need
+                                technical guidance or have queries about our products, we are here to help.
+                            </p>
                         </div>
                     </div>
                 </div>
-
+</div>
             </div>
         </div>
     </div>
@@ -198,10 +201,10 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="col-lg-6 col-md-6 col-sm-12 mb-4">
                     <img src="{{ asset('img/cronex-plant.jpg') }}" alt="" class="img-fluid">
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="col-lg-6 col-md-6 col-sm-12 mb-4">
                     <div class="manu-txt-box">
                         <p>
                             Cronex is a reputed lead acid battery producer in India that manufactures rechargeable
@@ -269,8 +272,6 @@
             </div>
         </div>
     </div>
-
-
     <div class="client-wrapper section-entry" data-aos="fade-up">
         <div class="container">
             <div class="row">
@@ -286,32 +287,32 @@
                     <div class="brands owl-carousel owl-theme">
                         <div class="item">
                             <div class="client-img-box">
-                                <img src="img/brand-1.webp" class="img-fluid">
+                                <img src="{{ asset('img/brand-1.webp') }}" class="img-fluid">
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-img-box">
-                                <img src="img/brand-2.png" class="img-fluid">
+                                <img src="{{ asset('img/brand-2.png') }}" class="img-fluid">
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-img-box">
-                                <img src="img/brand-3.png" class="img-fluid">
+                                <img src="{{ asset('img/brand-3.png') }}" class="img-fluid">
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-img-box">
-                                <img src="img/brand-4.png" class="img-fluid">
+                                <img src="{{ asset('img/brand-4.png') }}" class="img-fluid">
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-img-box">
-                                <img src="img/brand-5.png" class="img-fluid">
+                                <img src="{{ asset('img/brand-5.png') }}" class="img-fluid">
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-img-box">
-                                <img src="img/brand-6.png" class="img-fluid">
+                                <img src="{{ asset('img/brand-6.png') }}" class="img-fluid">
                             </div>
                         </div>
                     </div>

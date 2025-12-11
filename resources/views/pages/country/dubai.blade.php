@@ -8,7 +8,9 @@
   <div class="container">
     <div class="export-content">
       <h2>Export to <span>Dubai</span></h2>
-      <p>Connecting India’s quality manufacturing with Dubai’s fast-growing business landscape through trusted exports and partnerships.</p>
+      <p>
+        Connecting India’s quality manufacturing with Dubai’s fast-growing business landscape through trusted exports and partnerships.
+      </p>
       <a href="#enquiry" class="export-btn">Become a Distributor</a>
     </div>
   </div>

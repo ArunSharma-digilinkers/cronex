@@ -8,7 +8,9 @@
   <div class="container">
     <div class="export-content">
       <h2>Export to <span>Yemen</span></h2>
-      <p>Delivering reliable Indian products to Yemen — supporting local businesses with quality, consistency, and trusted trade solutions.</p>
+      <p>
+        Delivering reliable Indian products to Yemen — supporting local businesses with quality, consistency, and trusted trade solutions.
+      </p>
       <a href="#enquiry" class="export-btn">Become a Distributor</a>
     </div>
   </div>
@@ -50,11 +52,13 @@
         </div>
     </div>
 
-      <section class="why-choose-cronex py-5">
-  <div class="container">
-    <div class="text-center mb-5">
-      <h2 class="section-title">What makes Cronex the right partner for <span>Yemen?</span></h2>
-    </div>
+  <section class="why-choose-cronex py-5">
+    <div class="container">
+      <div class="text-center mb-5">
+        <h2 class="section-title">
+          What makes Cronex the right partner for <span>Yemen?</span>
+        </h2>
+      </div>
 
     <div class="row g-4 align-items-stretch">
       <div class="col-md-3">
@@ -63,7 +67,9 @@
             <i class="bi bi-lightning-charge-fill"></i>
           </div>
           <h5>Built for Harsh Conditions</h5>
-          <p>Strong power backup during long outages</p>
+          <p>
+            Strong power backup during long outages
+          </p>
         </div>
       </div>
 
@@ -73,7 +79,9 @@
             <i class="bi bi-truck"></i>
           </div>
           <h5>Better Performance, Longer Life</h5>
-          <p>Durable batteries with maximum efficiency</p>
+          <p>
+            Durable batteries with maximum efficiency
+          </p>
         </div>
       </div>
 
@@ -83,7 +91,9 @@
             <i class="bi bi-currency-exchange"></i>
           </div>
           <h5>Trusted Quality Standards</h5>
-          <p>Products tested and certified before export</p>
+          <p>
+            Products tested and certified before export
+          </p>
         </div>
       </div>
 
@@ -93,23 +103,24 @@
             <i class="bi bi-currency-exchange"></i>
           </div>
           <h5>Smooth & Secure Delivery</h5>
-          <p>Shipments handled with complete safety to Yemen ports</p>
+          <p>
+            Shipments handled with complete safety to Yemen ports
+          </p>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-
 <div class="request-quote-wrapper text-center section-entry">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <h3>
-           Become Our Distributor in Yemen
+             Become Our Distributor in Yemen
           </h3>
           <p>
-           Connect with Cronex today for a profitable partnership and tailored export support for your market.
+            Connect with Cronex today for a profitable partnership and tailored export support for your market.
           </p>
 
           <div class="btn-willard">
@@ -121,6 +132,7 @@
       </div>
     </div>
 </div>
+
 
 </div>
 

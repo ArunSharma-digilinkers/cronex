@@ -17,6 +17,7 @@ body {
     padding: 0;
     font-size: 16px;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 // Define color variables
@@ -126,7 +127,7 @@ li {
 
 /*-------------------------------------------------------------- Home About Styling------------------------------------------------ */
 
-.hm-info {
+.about-btn {
 
     a {
         display: inline-block;
@@ -164,9 +165,9 @@ li {
 
     p {
         max-width: 700px;
-        margin: 0 auto 40px;
     }
 }
+
 
 /*----------------------------------------------- Home Why Us Styling------------------------------------------------ */
 
@@ -541,6 +542,27 @@ color: #5b83a7;
     font-weight: 700;
 }
 
+
+.battery-cta-section {
+    background: #eef5ff;
+}
+
+.tag-line {
+    background: #e7f1ff;
+    color: $secondry-color;
+    padding: 6px 14px;
+    border-radius: 30px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.cta-box {
+    background: #ffffff;
+    border-radius: 14px;
+    border: 1px solid #e8eef5;
+}
+
+
 /*------------------------------------------------ Contact Styling--------------------------------------- */
 
 .contact-wrapper {
@@ -880,8 +902,27 @@ box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
       font-size: 1.8rem;
     }
   }
+ 
 }
 
+ @media (max-width: 768px) {
+.navbar  {
+  .nav-link {
+    line-height: 35px;
+    border-bottom: solid 1px #c3c3c3;
+  }
+}
+.page-banner-wrapper {
+  margin-top: 82px;
+}
+}
+
+.owl-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 40px;
+}
 
 
 /*------------------------------------------------ Footer Styling--------------------------------------- */

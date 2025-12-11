@@ -8,7 +8,9 @@
   <div class="container">
     <div class="export-content">
       <h2>Export to <span>Lebanon</span></h2>
-      <p>Supporting Lebanon’s markets with trusted Indian products — delivering quality, reliability, and growth through seamless exports.</p>
+      <p>
+        Supporting Lebanon’s markets with trusted Indian products — delivering quality, reliability, and growth through seamless exports.
+    </p>
       <a href="#enquiry" class="export-btn">Become a Distributor</a>
     </div>
   </div>
@@ -62,7 +64,7 @@
             Request a Quote Now 
           </h3>
           <p>
-           Start providing high-quality inverter, solar, lithium, automotive, and e-rickshaw batteries to power homes and businesses in every part of Lebanon.
+             Start providing high-quality inverter, solar, lithium, automotive, and e-rickshaw batteries to power homes and businesses in every part of Lebanon.
           </p>
 
           <div class="btn-willard">
